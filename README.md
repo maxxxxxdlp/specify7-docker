@@ -1,6 +1,12 @@
 Specify 7 and Web Portal in Docker
 =========
 
+```json
+[DEPRECATED]
+This repository is no longer maintained.
+Please contact Specify support for up-to-date Docker deployment options.
+```
+
 Dockerized version of [Specify 7.5.0](https://github.com/specify/specify7) and [Web Portal 2.0](https://github.com/specify/webportal-installer).
 
 The Specify Collections Consortium is funded by its member
